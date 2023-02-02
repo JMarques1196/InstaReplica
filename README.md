@@ -13,7 +13,7 @@
 
 <img width="720" alt="Comments - Likes" src="https://user-images.githubusercontent.com/64154960/216077510-a95bb81b-9d71-486a-9c9d-d8124ff8cb2b.png">
 
-* ## Follow / Unfollow Users and see their content displayed on the Timeline
+* ## Follow Users and see their content displayed on the Timeline
 
 <img width="720" alt="Timeline" src="https://user-images.githubusercontent.com/64154960/216077841-b188c3a0-8ac9-4742-932a-df7a2ea25927.png">
 
